@@ -1,10 +1,9 @@
 package javabelt.algo;
 
-import static org.junit.Assert.*;
 import javabelt.algo.util.DisplayUtils;
-
-import org.junit.Ignore;
 import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 public class MergeSortTest {
 

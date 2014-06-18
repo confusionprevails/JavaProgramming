@@ -6,15 +6,7 @@ import javabelt.algo.util.DisplayUtils;
 
 public class MergeSort {
 	
-	public static void main(String args[]){
-		/** Test Merge
-		 *  
-		 */
-		int[] arr1= {1,3,6,9};
-		int[] arr2 = {2,8,10,13};
-		int[] reArray = merge(arr1,arr2);
-		DisplayUtils.showIntArray(reArray);
-	}
+
 	public static int[] sort(int arr[]){
 		if(arr.length==1){
 			return arr;

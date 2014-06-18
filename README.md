@@ -10,14 +10,17 @@ I am a software development manager and I was bored of doing 'management' tasks.
 
 ### Content
 
-The repository has -
+This repository has java source code and junit test cases for the following -
 
 * Merge and Merge Sort
+* Binary Search
 
 ### ToDo
 
-* Binary Search
 * QuickSort
+
+### Tools
+I am using my 2011 13" Macbook Pro and IntelliJ with GitHub.
 
 
 

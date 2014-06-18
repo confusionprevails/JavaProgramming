@@ -41,6 +41,13 @@ public class BinarySearch {
 
     }
 
+    /**
+    * Search for the key in inputArray using BinarySearch and Recursion
+    * @param inputArray
+    * @param key
+    * @return -1 if not found, else return the index where the key is
+    */
+
     public int binarySearchRecursion(int[] inputArray, int key){
         if(inputArray.length>0)
             return binarySearchRecursion(inputArray,key,0,inputArray.length);

@@ -8,16 +8,24 @@ see how to solve various data structure and algorithm related problems
 
 I am a software development manager and I was bored of doing 'management' tasks. So I decided to rekindle my love for programming.
 
-### Content
+### Algo Content
 
 This repository has java source code and junit test cases for the following -
 
 * Merge and Merge Sort
 * Binary Search
 
-### ToDo
+### HackerRank Practice
+
+* Utopian Tree Problem
+* Service Lane Problem
+
+### Algo ToDo
 
 * QuickSort
+* Random Selection to find ith smallest element
+* Number of Array Inversions
+
 
 ### Tools
 I am using my 2011 13" Macbook Pro and IntelliJ with GitHub.
